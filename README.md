@@ -8,4 +8,4 @@ My brother and I started working with Stripe Connect to build out our platform g
 With this demo, you use the OAuth2 protocol to connect to a Standalone Stripe account. You can get an authorized Stripe user's live secret and public API keys and a live refresh token. You can then use the live refresh token to get Stripe's test secret and public API keys. You can then store these different API keys to make calls to different methods of Stripe's API on behalf of these connected users in their live or test Stripe environments. 
 
 ### Instructions
-Check out an in depth SitePoint Article on the subject - it'll walk you through the whole setup process.
+An in depth SitePoint Article on the subject will be released shortly and it'll walk you through the whole setup process.
